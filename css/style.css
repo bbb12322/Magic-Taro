@@ -1,0 +1,221 @@
+@font-face {
+    font-family: 'NK';
+    src: url(../fonts/NK123.ttf);
+}
+@font-face {
+    font-family: 'BD';
+    src: url(../fonts/Bookerly\ Bold.ttf);
+}
+
+@font-face {
+    font-family: 'OF';
+    src: url(../fonts/ofont.ru_Molodost.ttf);
+}
+header
+{
+width: 100%;
+height: auto;
+display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+#logo
+{height: 25%;
+width: 13%;
+margin-left: 45%;
+margin-top: 2%;
+position: absolute;
+align-self: center;
+}
+
+#ul1
+{color: aliceblue;
+font-family: "NK";
+text-decoration: none;
+font-size: 120%;
+}
+
+body
+{background-image: url(../img/old-psalter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.InfoAbout
+{margin-top: 5%;
+margin-left: 2%;
+color: aliceblue;
+width: 100%;
+height: auto;
+font-family: 'BD';
+font-size: 85%;
+
+
+}
+
+.txt2{font-size: 400%;
+    font-family: 'OF';}
+
+.txt{
+font-size: 200%;
+font-family: 'OF';
+}
+
+.person
+{margin-top: 5%;
+    margin-left: 5%;
+    font-family: "OF";
+    color: aliceblue;
+}
+
+#prs
+{position: relative;
+    font-size: 150%;
+    margin-left: 5%;
+    color: aliceblue;
+    font-family: "OF";
+
+
+}
+
+.personAbout
+{margin-left: 1%;
+color: aliceblue;
+font-family: 'OF';
+font-size: 150%;
+
+}
+
+
+.cert
+{
+width: 100%;
+height: auto;
+margin-top: 10%;
+display: flex;
+
+}
+
+
+
+#certi
+{font-size: 150%;
+font-family: "OF";
+}
+
+#line
+{width: 60%;
+height: 70%;
+position: absolute;
+margin-left: 20%;
+margin-top: 5%;
+
+
+
+}
+.cert2
+{height: auto;
+    width: 100%;
+    display: inline;
+    margin-left: 15%;
+    
+
+}
+
+#cert1
+{
+border: 1px solid goldenrod;
+height: 60%;
+width: 30%;
+
+}
+
+#cert3
+{
+border: 1px solid goldenrod;
+height: 70%;
+width: 20%;
+
+}
+
+#cert4
+{
+border: 1px solid goldenrod;
+height: 60%;
+width: 30%;
+
+}
+
+#a{position: absolute;
+   margin-left: 25%;
+   margin-top: 18%;
+   font-family: "OF";
+   font-size: 200%;
+
+}
+
+#aa{position: absolute;
+    margin-left: 47%;
+    margin-top: 18%;
+    font-family: "OF";
+    font-size: 200%;
+ 
+ }
+
+ #aaa{position: absolute;
+    margin-left: 68%;
+    margin-top: 18%;
+    font-family: "OF";
+    font-size: 200%;
+ 
+ }
+
+ .certif
+ {
+height: auto;
+width: 100%;
+justify-content: center;
+display: flex;
+margin-top: 10%;
+
+ }
+
+ .text
+ {
+color: aliceblue;
+justify-content: center;
+display: flex;
+margin-right: 20%;
+font-family: "OF";
+font-size: 150%;
+
+}
+
+.fb
+{width: 30%;
+height: auto;
+
+
+}
+
+#user
+{width: 6%;
+height: 6%;
+border-radius: 50%;
+filter: invert(1);
+}
+
+.text12
+{color: white;
+font-family: "OF";
+font-size: 120%;
+border: 1px solid white;
+
+
+}
